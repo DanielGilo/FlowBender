@@ -1,0 +1,3 @@
+[submodule "3d-texturing"]
+	path = 3d-texturing
+	url = https://github.com/DanielGilo/flowbender-texturing-trellis2.git
