@@ -1,0 +1,6 @@
+[submodule "3d-texturing"]
+	path = 3d-texturing
+	url = https://github.com/DanielGilo/flowbender-texturing-trellis2.git
+[submodule "image-to-image"]
+	path = image-to-image
+	url = https://github.com/selflein/FlowBender-I2I.git
